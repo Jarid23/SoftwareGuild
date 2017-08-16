@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+    <link href="albumStyle.css"
+    rel="stylesheet"
+    type="text/css" />
+<style>
+        li {
+    border-bottom: 1px dashed black;
+}
+</style>
+<h1>
+    Dark Side of the Moon
+    <br>
+</h1>
+<br>
+<img src="images/DSOM.png">
+<br>
+
+
+<p1 style="color:red;font-weight:bold;">
+Pink Floyd
+<br>
+</p1>
+
+<p2>
+<ul>
+
+<li>Roger Waters - bass guitar</li>
+
+<li>Richard Wright - keyboards</li>
+
+<li>Nick Mason - percussion</li>
+
+<li>David Gilmour - Vocals and Guitar </li> 
+</ul>
+</p2>
+</body>
+</html>
