@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+    <h1>
+    <center><img src="images/DSOM.png" align="middle"></center>
+    </h1>
+<p1>
+    <center>Dark Side of the Moon</center>
+</p1>
+<p2>
+     <center><a href="http://www.pinkfloyd.com/">by Pink Floyd</a></center> 
+     <br>
+     <br>
+     <center>Released March 1, 1973</center>
+     <br>
+     <br>
+     Dark Side of the Moon speaks for itself but if I must say something then I will say this : it is a masterpiece.
+</p2>
+
+<p2>
+<ul>
+<center>Band Members and producers</center>
+<li>Roger Waters - bass guitar</li>
+
+<li>Richard Wright - keyboards</li>
+
+<li>Nick Mason - percussion</li>
+
+<li>David Gilmour - Vocals and Guitar </li> 
+</ul>
+</p2>
+<p1>
+    <center>Opening Tracks</center>
+    <table border="1" width="100%">
+        <tr>
+            <th>Track #</th>
+            <th>Track Title</th>
+            <th>Track Length</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Speak to me/Breathe</td>
+            <td>3:58</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>On the run</td>
+            <td>3:35</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Time</td>
+            <td>7:05</td>
+        </tr>
+    </table>
+</p1>
+
+
+</html>
