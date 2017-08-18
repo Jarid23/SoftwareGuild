@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <body>
+<form action="#" method="post">
+            <div>
+                <label id="FirstNameLabel" for="FirstName">First Name :</label>
+                <input id="FirstName" name="FirstName" type="text"/>
+            </div>
+        <form action="#" method="post">
+             <div>
+                <label id="LastNameLabel" for="LastName">Last Name :</label>
+                <input id="LastName" name="LastName" type="text"/>
+            </div>          
+        <form action="#" method="post">
+            <div>
+                <label id="EmailLabel" for="Email">Email address :</label>
+                <input id="Email" name="Email" type="text"/>
+            </div>
+        <form action="#" method="post">
+            <div>
+            Type of license: 
+            <br>
+            <input type="radio" name="answer" value="Business" checked/>Business<tr/>
+            <input type="radio" name="answer" value="Personal"/>Personal<tr/>
+            </div>
+        <form action="#" method="post">
+            <div>
+                <br>
+                Reason :
+                <select name="reason">
+                    <option value="software">Software</option>
+                    <option value="Hardware">Hardware</option>
+                    <option value="Information">Information</option>
+                </select>
+            </div>
+        Additional Information : <tr><textarea name="additionalinformation"></textarea><br/>
+        <br>
+        <input type="checkbox" name="termsofservice" value="agree" checked/>I agree to the terms of service<br/>
+        <br>
+        <input type="submit"/> <input type="reset"/><br/>        
+    </body>
+</html>
