@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+<h1>
+    Golden China
+</h1>
+<h2>
+    <a href="restaurant.html">Home</a> 
+    <a href="Menu.html">Menu</a> 
+    <a href="ContactUs.html">Contact Us</a>
+</h2>
+    <body>
+<form action="#" method="post">
+            <div>
+                <label id="FirstNameLabel" for="FirstName">First Name :</label>
+                <input id="FirstName" name="FirstName" type="text"/>
+            </div>
+        <form action="#" method="post">
+             <div>
+                <label id="LastNameLabel" for="LastName">Last Name :</label>
+                <input id="LastName" name="LastName" type="text"/>
+            </div>          
+        <form action="#" method="post">
+            <div>
+                <label id="EmailLabel" for="Email">Email address :</label>
+                <input id="Email" name="Email" type="text"/>
+            </div>
+        <form action="#" method="post">
+            <div>
+            Type of license: 
+            <br>
+            <input type="radio" name="answer" value="Business" checked/>Business<tr/>
+            <input type="radio" name="answer" value="Personal"/>Personal<tr/>
+            </div>
+        <form action="#" method="post">
+            <div>
+                <br>
+                Reason :
+                <select name="reason">
+                    <option value="software">Catering</option>
+                    <option value="Hardware">Private Party</option>
+                    <option value="Information">Feedback</option>
+                </select>
+            </div>
+        Additional Information : <tr><textarea name="additionalinformation"></textarea><br/>
+        <br>
+        <input type="submit"/>      
+    </body>
+
+
+
+<footer>
+    2453 woodlily ridge Minneapolis Minnesota 55404
+    <br>
+    563-911-5012
+</footer>
+
+</html>
