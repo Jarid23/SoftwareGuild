@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<h1>
+Golden China
+</h1>
+<h2>
+    <a href="restaurant.html">Home</a> 
+    <a href="Menu.html">Menu</a> 
+    <a href="ContactUs.html">Contact Us</a>
+</h2>
+<body>
+    <img src = "images/restaraunt.jpg">
+    <br>
+    <br>
+    Restaraunt Description
+</body>
+
+<footer>
+    2453 woodlily ridge Minneapolis Minnesota 55404
+    <br>
+    563-911-5012
+</footer>
+
+</html>
